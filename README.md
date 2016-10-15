@@ -17,6 +17,7 @@ https://web.stanford.edu/~liszt90/acm/notebook.html
 https://trailofbits.github.io/ctf/  
 https://backdoor.sdslabs.co/ 
 https://web.stanford.edu/~adyuen/107 -> Mercurial, Valgrind, GDB, IA32
+https://www.seas.upenn.edu/cets/answers/auth-htpasswd.html
 
 ## Programming Languages
 ### Python
