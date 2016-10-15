@@ -1,6 +1,9 @@
 # TrailofBits
 Some Trivia and Useful Links I browse through frequently
 
+## Common Workarounds and Tricks/Tips  
+http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
+
 ## Competitve Coding
 http://bigocheatsheet.com/  
 http://codeforces.com/blog/entry/13529  
@@ -14,10 +17,10 @@ https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 https://web.stanford.edu/~liszt90/acm/notebook.html  
 
 ## Hacking
-https://trailofbits.github.io/ctf/  
-https://backdoor.sdslabs.co/ 
-https://web.stanford.edu/~adyuen/107 -> Mercurial, Valgrind, GDB, IA32
-https://www.seas.upenn.edu/cets/answers/auth-htpasswd.html
+https://trailofbits.github.io/ctf/    
+https://backdoor.sdslabs.co/   
+https://web.stanford.edu/~adyuen/107 -> Mercurial, Valgrind, GDB, IA32  
+https://www.seas.upenn.edu/cets/answers/auth-htpasswd.html  
 
 ## Programming Languages
 ### Python
