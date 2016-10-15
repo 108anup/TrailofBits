@@ -15,7 +15,8 @@ https://web.stanford.edu/~liszt90/acm/notebook.html
 
 ## Hacking
 https://trailofbits.github.io/ctf/  
-https://backdoor.sdslabs.co/  
+https://backdoor.sdslabs.co/ 
+https://web.stanford.edu/~adyuen/107 -> Mercurial, Valgrind, GDB, IA32
 
 ## Programming Languages
 ### Python
