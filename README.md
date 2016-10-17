@@ -95,3 +95,34 @@ http://unix.stackexchange.com/questions/99185/what-do-square-brackets-mean-witho
 
 http://www.tldp.org/LDP/abs/html/special-chars.html  
 Answer to most of your Questions.  
+
+## Basic Git  
+Conventions:  
+default branch - master  
+The local repo = local  
+Remote your version = origin  
+Remote collaborative = upstream  
+
+git diff //diff between staged and working directory  
+git diff --cached //diff between staged and last commit (there may be things in working directory not yet staged being tracked)  
+git diff HEAD //union of above 2 (diff between HEAD and working directory)  
+git diff HEAD^ //diff between head ans last to last commit.  
+none shows untracked differences  
+  
+commit - staged changes - working directory (tracked and unstaged). (FLow of Files)  
+
+git rebase -i HEAD~x //x = number  
+to choose certain commits and discard others or to squash commits etc.  
+  
+git checkout -b branch-name //create branch-name and checkout  
+git checkout branch-name //checkout branch  
+git checkout <commit> //HEAD detach and view earlier commit  
+git checkout master // reattach HEAD after viewing old commit  
+git revert <commit> // removes commit given by hash code and whatever remains is left in a new commit  
+git reset --hard HEAD~1 //Completely undo last commit (no retaining back) 
+  
+git add -u //stages tracked - (changed or removed)  
+git add .  //stages untracked new, tracked - (changed)  
+git add -a //both of above  
+
+(http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)  
