@@ -1,5 +1,5 @@
 # Summary
 
 * [Cryptography](cryptography.md)
-* Competitive Coding
+* [Competitive Coding](competitive_coding.md)
 
